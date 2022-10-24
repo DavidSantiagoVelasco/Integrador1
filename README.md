@@ -1,2 +1,2 @@
 # Integrador1
-Sistema CRM/ERP integrado, que permite manejar inventario en una base de datos sql.
+Sistema CRM/ERP integrado, que permite manejar inventario en una base de datos sql. Permite hacer compras, ingresar productos, crear usuarios, manejar usuarios, etcétera. Se utilizó el marco de trabajo SCRUM en compañía de un compañero, el cual fue el encargado de manejar la administración de servidores y redes de datos, y yo fui el encargado del desarrollo. El marco tecnológico utilizado es: HTML, CSS, PHP, JS, MySQL, Apache y sistemas operativos como Ubuntu Server, Ubuntu, Windows.
