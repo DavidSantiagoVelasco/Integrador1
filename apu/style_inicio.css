@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.registro{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;   
+    margin-top: 100px;
+    border-radius: 4px;
+    color: white;
+    font-family: 'calibri';
+}
+
+.registro h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.textbox {
+    background: #E5E5E5;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ABDFFF;
+    font-family: 'calibri';
+    font-size: 16px;
+}
+
+.button{
+    width: 96.6%;
+    background: #ABDFFF;
+    border: none;
+    padding: 12px;
+    color: #24303c;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 16px;
+    border-radius: 1px;
+}
+
+.warnings{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    color: white;
+    padding-top: 20px;
+}

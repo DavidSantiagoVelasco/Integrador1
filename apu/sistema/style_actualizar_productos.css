@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form_actualizar{
+    width: 400px;
+    margin: auto;
+}
+
+.registro{
+    background: #24303c;
+    padding: 30px;
+    margin: auto;   
+    margin-top: 40px;
+    border-radius: 4px;
+    color: white;
+    font-family: 'calibri';
+}
+
+.registro h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.textBox, textarea {
+    width: 100%;
+    background: #E5E5E5;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ABDFFF;
+    font-family: 'calibri';
+    font-size: 16px;
+}
+
+.registro textarea {
+    max-width: 100%;
+    min-height: 100px;
+    max-height: 200px;
+    min-width: 100%;
+}
+
+.button{
+    width: 100%;
+    background: #ABDFFF;
+    border: none;
+    padding: 12px;
+    color: #24303c;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 16px;
+    border-radius: 1px;
+}
+
+.warnings{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    color: white;
+    padding-top: 20px;
+}
+
+.alert{
+    width: 100%;
+    background: #66e07d66;
+    border-radius: 6px;
+    margin: 20px auto;
+
+}
+
+.alert p{
+    padding: 10px;
+    color: #232b11
+}
